@@ -34,3 +34,4 @@ A few things I have built and the problems they made me solve:
 ## Contact
 
 - **Email** — [youssefamr367@gmail.com](mailto:youssefamr367@gmail.com)
+- **LinkedIn** — [youssef-amr-283911226](https://www.linkedin.com/in/youssef-amr-283911226/)
